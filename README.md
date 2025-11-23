@@ -45,4 +45,4 @@
 ---
 
 > 🐾 *«Код не работает? отдохни и глянь на эту гифку»*
-> ![Корги бегут по лугу](https://github.com/diplmaf/diplmaf/blob/main/corghi-running.gif?raw=true)
+> ![](https://github.com/diplmaf/diplmaf/blob/main/corghi-running.gif?raw=true)
