@@ -45,4 +45,6 @@
 ---
 
 > 🐾 *«Код не работает? отдохни и глянь на эту гифку»*
+>
+>
 > ![](https://github.com/diplmaf/diplmaf/blob/main/corghi-running.gif?raw=true)
